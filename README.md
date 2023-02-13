@@ -8,4 +8,4 @@ In the project directory, you can run:
 install the module on the web server
 
 ### `node index.js`
-Runs the app in the development mode.\
+Runs the app in the development mode.
